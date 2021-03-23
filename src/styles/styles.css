@@ -45,7 +45,6 @@ header {
   font-size: 1.5rem;
   padding: 0 0.8rem;
   color: #827b7b;
-  grid-column: 1 / 2;
 }
 
 .filters-dropdown {
