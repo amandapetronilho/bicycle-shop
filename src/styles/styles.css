@@ -105,7 +105,6 @@ header {
 }
 
 @media screen and (max-width: 1024px) {
-
   .filters {
     display:flex;
     flex-direction: column;
