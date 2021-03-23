@@ -71,7 +71,7 @@ header {
   border: solid 1px #f9f2f2;
   border-radius: 10px;
   display: flex;
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .cards__info {
